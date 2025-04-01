@@ -21,7 +21,7 @@ __bold__
 sudo dnf install nginx -y 
 ```
 
-~~~noneed~~~
+~~ noneed ~~
 
 
 
