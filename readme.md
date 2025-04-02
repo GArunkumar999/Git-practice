@@ -18,7 +18,7 @@ _italic_
 __bold__
 [facebook] (https://facebook.com)
 
-![fb] (https://www.pexels.com/photo/green-and-blue-peacock-feather-674010/)
+![fb] (https://www.pexeo/green-and-blue-peacock-feather-674010/)
 
 [google] (https://google.com)
 
