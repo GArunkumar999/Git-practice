@@ -23,7 +23,7 @@ sudo dnf install nginx -y
 
 ~~noneed~~
 
-[](google.com)
+[google] (google.com)
 
 
 
