@@ -17,14 +17,11 @@ _italic_
 
 __bold__
 
+[google] (https://google.com)
+
 ```
 sudo dnf install nginx -y 
 ```
 
 ~~noneed~~
-
-
-[google] (google.com)
-
-
 
